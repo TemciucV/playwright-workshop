@@ -1,0 +1,3 @@
+name;email;password;expectedResult
+Primary customer;customer@practicesoftwaretesting.com;welcome01;My account
+Second customer;customer2@practicesoftwaretesting.com;welcome01;My account
